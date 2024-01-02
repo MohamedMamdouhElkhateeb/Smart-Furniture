@@ -255,7 +255,6 @@
     </section>
     
 
-
     <section class="footer">
 
         <div class="box-container">
@@ -275,7 +274,6 @@
             <a href="https://www.youtube.com/channel/UCOs2bJoQE-p44JYr29CxirA"> <i class="fab fa-youtube"></i> youtube</a>
             </div>
            
-
         </div>
 
     </section>
