@@ -304,9 +304,9 @@ $(document).ready(function() {
 
         <div class="box">
             <h3>Follow Us On</h3>
-            <a href="https://www.facebook.com/smartfurnitureeg1"> <i class="fab fa-facebook-f"></i> facebook</a>
-            <a href="https://www.instagram.com/smartfurnitureonline/"> <i class="fab fa-instagram"></i> instagram</a>
-            <a href="https://www.youtube.com/channel/UCOs2bJoQE-p44JYr29CxirA"> <i class="fab fa-youtube"></i> youtube</a>
+            <a href=""> <i class="fab fa-facebook-f"></i> facebook</a>
+            <a href=""> <i class="fab fa-instagram"></i> instagram</a>
+            <a href=""> <i class="fab fa-youtube"></i> youtube</a>
         </div>
 
 
