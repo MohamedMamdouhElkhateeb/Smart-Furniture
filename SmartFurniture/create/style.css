@@ -1,0 +1,156 @@
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #131E43;
+  } 
+  form {
+    color: aliceblue;  
+  }
+  .login-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    padding: 40px;
+    margin: 20px auto;
+    transform: translate(-50%, -55%);
+    background: #14275a;
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+  }
+  login-box .user-box {
+    position: relative;
+  }
+  
+  .login-box .user-box input {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: #e8b656;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #e8b656;
+    outline: none;
+    background: transparent;
+  }
+  
+  .login-box .user-box label {
+    position: absolute;
+    top: 23%;
+    left: 10%;
+    padding: 0px 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: #e8b656;
+    pointer-events: none;
+    transition: 0.5s;
+  }
+  
+  .login-box .user-box input:focus ~ label,
+  .login-box .user-box input:valid ~ label {
+    top: 18%;
+    left: 10%;
+    color: #e8b656;
+    font-size: 12px;
+  }
+  .login-box .t1 label {
+    position: absolute;
+    top: 36%;
+    left: 10%;
+    padding: 0px 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: #e8b656;
+    pointer-events: none;
+    transition: 0.5s;
+  }
+  
+  .login-box .t1 input:focus ~ label,
+  .login-box .t1 input:valid ~ label {
+    top: 30%;
+    left: 10%;
+    color: #e8b656;
+    font-size: 12px;
+  }
+  .login-box .t2 label {
+    position: absolute;
+    top: 49%;
+    left: 10%;
+    padding: 0px 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: #e8b656;
+    pointer-events: none;
+    transition: 0.5s;
+  }
+  
+  .login-box .t2 input:focus ~ label,
+  .login-box .t2 input:valid ~ label {
+    top: 42%;
+    left: 10%;
+    color: #e8b656;
+    font-size: 12px;
+  }
+  .login-box .t3 label {
+    position: absolute;
+    top: 62%;
+    left: 10%;
+    padding: 0px 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: #e8b656;
+    pointer-events: none;
+    transition: 0.5s;
+  }
+  
+  .login-box .t3 input:focus ~ label,
+  .login-box .t3 input:valid ~ label {
+    top: 54%;
+    left: 10%;
+    color: #e8b656;
+    font-size: 12px;
+  }
+  .login-box .t4 label {
+    position: absolute;
+    top: 75%;
+    left: 10%;
+    padding: 0px 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: #e8b656;
+    pointer-events: none;
+    transition: 0.5s;
+  }
+
+  .login-box .t4 input:focus ~ label,
+  .login-box .t4 input:valid ~ label {
+    top: 68%;
+    left: 10%;
+    color: #e8b656;
+    font-size: 12px;
+  }
+  
+  input[type="text"], input[type="email"], input[type="text"] ,input[type="password"],input[type="password"]{
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 300px;
+  }
+  input[type="submit"] {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #3498db;
+    color: #200c0c;
+    cursor: pointer;
+  }
+  input[type="submit"]:hover {
+    background-color: #2980b9;
+  }
+
+
+    
